@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+zsuuu/__init__.py
+zsuuu/hello.py
+zsuuu.egg-info/PKG-INFO
+zsuuu.egg-info/SOURCES.txt
+zsuuu.egg-info/dependency_links.txt
+zsuuu.egg-info/top_level.txt
